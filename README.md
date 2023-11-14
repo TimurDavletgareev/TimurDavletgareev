@@ -1,4 +1,4 @@
-![(MyHeader1.png)](https://github.com/TimurDavletgareev/TimurDavletgareev/blob/main/MyHeader1_1200x400.png)
+![](https://github.com/TimurDavletgareev/TimurDavletgareev/blob/main/MyHeader1%20bnw.png)
 ### Hi there 👋
 
 <!--
