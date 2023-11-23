@@ -3,7 +3,7 @@
 ### Обо мне:
 Являюсь сторонником Чистого кода и применения паттернов проектирования. Изучаю
 AI-тестирование, т.к. люблю тестировать, но не люблю тратить много времени на написание
-тестов. Для развития навыков имею пет-проект <a href="github.com/TimurDavletgareev/my-nerdy-garage">MyNerdyGarage</a> - бэкенд приложения для увлеченных автовладельцев с элементами социальной сети.
+тестов. Для развития навыков имею пет-проект <a href="https://github.com/TimurDavletgareev/my-nerdy-garage">MyNerdyGarage</a> - бэкенд приложения для увлеченных автовладельцев с элементами социальной сети.
 
 ### Стек:
 <a href="https://simpleicons.org/"><img alt="Spring" title="Spring" src="https://simpleicons.org/icons/spring.svg" height="18"></a> Spring
